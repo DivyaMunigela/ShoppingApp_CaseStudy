@@ -1,0 +1,3 @@
+Run the json server on below port, json file is in the src folder only
+
+json-server --watch products.json --port 3006
