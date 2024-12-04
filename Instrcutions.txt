@@ -1,3 +1,13 @@
-Run the json server on below port, json file is in the src folder only
+Run the json files on below port, json files are in the src folder only
 
 json-server --watch products.json --port 3006
+json-server --watch data.json --port 3005
+
+Cart Functionality is not working as expected Addition is not happening for first click and for next click it is taking the previously clicked data.
+Removal not working
+And I was unable to pass array as props in Link tag
+
+Context API I tried to use it to set Logged In user name, but it was not working as expected.
+
+
+Meanwhile I will try to see, but as the deadline crossed uploading the current code.
